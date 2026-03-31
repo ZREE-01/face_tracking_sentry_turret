@@ -13,4 +13,8 @@ The Sentry turret uses a USB webcam connected to a PC. The PC runs a Python scri
 - Python3 - running OpenCV and PyFirmata
 ## Data flow chart
 Webcam -> PC(OpenCV + PyFirmata) -> USB -> Arduino(StandardFirmata) -> Servos
-  
+## Code
+[Sentry_turret.py](Sentry_turret.py)
+
+--
+Built independently as a part of a Robotics and Electronics learning journey.
